@@ -1,2 +1,3 @@
 # demo
-Author : Tejas Dolas
+Author : Tejas Dolas <br>
+This is a demo repository
